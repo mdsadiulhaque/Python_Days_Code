@@ -1,0 +1,1 @@
+print("Past is Past");
